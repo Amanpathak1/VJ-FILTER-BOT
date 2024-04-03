@@ -65,9 +65,9 @@ Join My <a href='https://telegram.dog/vj_botz'>Update Channel</a> For More Updat
 ## Variables
 
 ### Required Variables
-* <b>`BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
-* `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
+* <b>`BOT_TOKEN`: Create a bot using [@BotFather](7140690982:AAHKm-LEVPKvh2OildpA-zWQTULKbiCGUDU), and get the Telegram API token.
+* `API_ID`: Get this value from [telegram.org](22253680)
+* `API_HASH`: Get this value from [telegram.org](4fc4c646519fe43891bebd1449744b7e)
 * `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
 * `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
 * `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/I36_OTWvT2w)
